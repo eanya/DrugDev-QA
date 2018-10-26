@@ -12,14 +12,14 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "b5da03b8-9fc9-483f-a464-d77aef4ff3b3",
+						"id": "21c2e7af-0ed9-4083-974f-fc23409cf93f",
 						"exec": [
-							"//pm.test(\"the username is returned\", function () {",
-							"   // var jsonData = pm.response.json();",
-							"   // pm.expect(jsonData.data.username).to.eql('Dr I Test');",
-							"//});",
+							"pm.test(\"the username is returned\", function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData.data.username).to.eql('Dr I Test');",
+							"});",
 							"",
-							"console.log(responseTime < 200);"
+							""
 						],
 						"type": "text/javascript"
 					}
