@@ -1,0 +1,24 @@
+{
+	"id": "b4a228a2-bd33-47ee-8ce8-093ba4af4cb4",
+	"name": "World Best App Environment",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://sprinkle-burn.glitch.me",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": " ",
+			"enabled": false
+		},
+		{
+			"key": "password",
+			"value": " ",
+			"enabled": false
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2018-10-25T01:51:31.788Z",
+	"_postman_exported_using": "Postman/6.4.4"
+}
