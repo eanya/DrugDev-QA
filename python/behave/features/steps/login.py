@@ -10,7 +10,6 @@ def step_impl(context):
 
 @when('the user enters username as "{email}"')
 def step_impl(context, email):
-    print("Print " + email)
     if email == "empty":
         context.browser.find_element_by_name("email").send_keys(' ')
     else:

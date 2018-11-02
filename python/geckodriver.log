@@ -81,3 +81,150 @@ Unable to read VR Path Registry from C:\Users\Emman\AppData\Local\openvr\openvrp
 1540530646982	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
 1540530653319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1540530655345	Marionette	INFO	New connections will no longer be accepted
+1541110854362	geckodriver	INFO	geckodriver 0.19.0
+1541110854400	geckodriver	INFO	Listening on 127.0.0.1:63076
+1541110857940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Emman\\AppData\\Local\\Temp\\rust_mozprofile.7gg5N1cfjkPE"
+1541110861116	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Emman\AppData\Local\openvr\openvrpaths.vrpath
+1541110862324	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Emman\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Emman\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Emman\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16892] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16412] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16412] WARNI1541110870249	Marionette	INFO	Listening on port 63084
+1541110870269	Marionette	INFO	Listening on port 63084
+1541110870448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541110870514	Marionette	DEBUG	Register listener.js for window 4294967297
+1541110870855	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1541110871607	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1541110871607	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1541110871697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541110873161	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541110879443	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541110880277	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541110880280	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541110880317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=supers3cret"
+1541110880369	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=supers3cret"
+1541110882526	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=supers3cret"
+1541110882548	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=supers3cret"
+1541110882548	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=supers3cret"
+1541110882559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541110882689	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541110889053	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541110889250	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541110889254	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541110889311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=supers3cret"
+1541110889370	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=supers3cret"
+1541110891504	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=supers3cret"
+1541110891519	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=supers3cret"
+1541110891519	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=supers3cret"
+1541110891530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541110891563	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541110898030	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541110898328	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541110898330	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541110898364	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=xsupers3cret"
+1541110898418	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=xsupers3cret"
+1541110900568	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=xsupers3cret"
+1541110900591	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=xsupers3cret"
+1541110900592	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=xsupers3cret"
+1541110900600	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541110900639	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541110906951	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541110907145	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541110907147	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541110907192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=xsupers3cret"
+1541110907239	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=xsupers3cret"
+1541110909375	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=xsupers3cret"
+1541110909395	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=xsupers3cret"
+1541110909395	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=xsupers3cret"
+1541110909405	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541110909437	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541110915899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1541110918001	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541110918020	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541110918023	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541110918035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541110918068	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541110924485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1541110926540	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541110926573	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541110926576	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541110926595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541110926629	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541110933163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1541110935273	Marionette	INFO	New connections will no longer be accepted
+1541111697441	geckodriver	INFO	geckodriver 0.19.0
+1541111697450	geckodriver	INFO	Listening on 127.0.0.1:63416
+1541111700748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Emman\\AppData\\Local\\Temp\\rust_mozprofile.BW6gEW3ulcdP"
+1541111701516	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Emman\AppData\Local\openvr\openvrpaths.vrpath
+1541111702477	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Emman\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Emman\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Emman\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12031541111705938	Marionette	INFO	Listening on port 63424
+1541111705987	Marionette	INFO	Listening on port 63424
+1541111706107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541111706163	Marionette	DEBUG	Register listener.js for window 4294967297
+1541111706194	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1541111706959	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1541111706959	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1541111706971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541111708210	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541111714542	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541111716036	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541111716039	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541111716081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=supers3cret"
+1541111716148	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=supers3cret"
+1541111718331	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=supers3cret"
+1541111718346	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=supers3cret"
+1541111718346	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=supers3cret"
+1541111718358	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541111718386	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541111724631	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541111724867	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541111724870	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541111724907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=supers3cret"
+1541111724974	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=supers3cret"
+1541111727147	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=supers3cret"
+1541111727191	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=supers3cret"
+1541111727192	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=supers3cret"
+1541111727213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541111727248	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541111733625	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541111733980	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541111733982	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541111733999	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=xsupers3cret"
+1541111734032	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=xsupers3cret"
+1541111736136	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=xsupers3cret"
+1541111736159	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=xsupers3cret"
+1541111736159	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/?email=test%40drugdev.com&password=xsupers3cret"
+1541111736174	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541111736210	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541111742509	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541111742709	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541111742712	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541111742741	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=xsupers3cret"
+1541111742825	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=xsupers3cret"
+1541111744984	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=xsupers3cret"
+1541111745024	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=xsupers3cret"
+1541111745024	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/?email=xtest%40drugdev.com&password=xsupers3cret"
+1541111745034	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541111745063	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541111751589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1541111753679	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541111753701	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541111753705	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541111753717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541111753750	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541111760169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1541111762213	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sprinkle-burn.glitch.me/"
+1541111762230	Marionette	DEBUG	Received DOM event "pagehide" for "https://sprinkle-burn.glitch.me/"
+1541111762233	Marionette	DEBUG	Received DOM event "unload" for "https://sprinkle-burn.glitch.me/"
+1541111762245	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sprinkle-burn.glitch.me/"
+1541111762279	Marionette	DEBUG	Received DOM event "pageshow" for "https://sprinkle-burn.glitch.me/"
+1541111768687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1541111770785	Marionette	INFO	New connections will no longer be accepted
